@@ -1,0 +1,41 @@
+{
+    "images": [
+      {
+        "src": "images/bRobot.jpg",
+        "description": "Working on FRC robot"
+      },
+      {
+        "src": "images/me.jpeg",
+        "description": "Photo of myself"
+      },
+      {
+        "src": "images/robotics.jpeg",
+        "description": "Photo of me with my old mentor"
+      },
+      {
+        "src": "images/vex.jpg",
+        "description": "Photo of me and my VEX team"
+      },
+      {
+        "src": "images/award.jpeg",
+        "description": "The Awards we won with my second team"
+      },
+      {
+        "src": "images/award1.jpg",
+        "description": "First award we got"
+      },
+      {
+        "src": "images/me_robot.jpeg",
+        "description": "Photo of me and my friend with the robot we build"
+      },
+      {
+        "src": "images/educaion.jpeg",
+        "description": "Photo of me and our other mentor celebrating"
+      },
+      {
+        "src": "images/world.jpeg",
+        "description": "Photo From World Championship"
+      }
+    ]
+  }
+  
